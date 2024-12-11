@@ -1,9 +1,11 @@
-### Olá! Eu sou o Edmo Gibson 👨🏽‍💻
+### Olá! Eu sou o Edmo Gibson 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmogc/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edmogibson/)
 
 ![Kamiouji1 GitHub stats](https://github-readme-stats.vercel.app/api?username=kamiouji1&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamiouji1&layout=compact)
 
 ## Tecnologias que eu uso no meu dia a dia
 
